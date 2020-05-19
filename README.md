@@ -2,6 +2,7 @@
 Template helpers designed to be used with Newtonsoft.Json.
 
 ## Group
+Inspired by the work done for https://github.com/shannonmoeller/handlebars-group-by.
 
 Template
 ```xml
